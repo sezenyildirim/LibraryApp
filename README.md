@@ -11,5 +11,5 @@ About the Project:
 *With the Library App application, users can view registered books in the library, borrow them, and find out who borrowed a specific book and when it needs to be returned.
 *Additionally, new book addition functionalities are available.
 
+<video src="https://github.com/sezenyildirim/LibraryApp/blob/main/libraryapp-video.mp4"></video>
 
-![](https://github.com/sezenyildirim/LibraryApp/blob/main/libraryapp-video.mp4)
